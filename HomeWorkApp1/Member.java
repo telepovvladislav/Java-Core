@@ -2,7 +2,7 @@ package HomeWorkApp1;
 /**
  * Java Core.  Homework 1
  * @author Telepov Vladislav
- * @version Date: 16.05.2022 г.
+ * @version Date: 19.05.2022 г.
  */
 
 public class Member {
