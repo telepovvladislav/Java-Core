@@ -1,4 +1,4 @@
-package J2HW1;
+package HomeWorkApp1;
 /**
  * Java Core.  Homework 1
  * @author Telepov Vladislav
